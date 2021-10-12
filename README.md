@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charlie!</h1>
 <h3 align="center">A passionate full-stack software engineer from NYC.</h3>
 
-<img src='https://i.ibb.co/Tcs2fWY/profile.png'  alt='banner' width='100%'>
 <p>Thanks for stopping by!  My name is Charlie, soon to be father, musician, audio engineer and software engineer.  I'm passionate about connecting with like minded individuals to build comunities centered around creating awesome projects! My interests include exploring my creativity through music, video and programming. I'm also a podcast host for <a href="https://anchor.fm/javaunscripted">JavaUnscripted</a>, which explores the wild journey of software development. Working on various projects over the years has allowed me to become a jack of all trades while working in multiple industries. Let's connect and create something awesome!</p>
 
 
