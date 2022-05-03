@@ -11,6 +11,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmalave13&layout=compact&theme=radical" />
 </a>
  -->
+ 
+ <h3 align="left">Software Engineer @ MindBody</h3>
+<p align="left">
+<a href="https://www.mindbodyonline.com/" target="blank"><img align="center" src="https://25y35xxcueanov2s108puszp-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/ext-552.png" alt="mindbody" height="60" width="60" /></a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
